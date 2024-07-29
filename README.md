@@ -1,2 +1,2 @@
-# scripts-emso
-repo com scripts do software EMSO, usados ao longo da disciplina Engenharia de Processos, no curso de Engenharia Química, na UFRJ.
+# scripts-metodos-numericos
+repo com scripts usados ao longo da disciplina Métodos Numéricos, no curso de Engenharia Química, na UFRJ.
